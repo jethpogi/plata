@@ -4,12 +4,14 @@ body{
     background-attachment: fixed;
    background-size:cover;
    display: grid;
+    color: black;
 }
 li{
     list-style: none;
     float: left;
     padding: 15px;
     position: sticky;
+    color: black;
 }
 .cont {
     color: white;
